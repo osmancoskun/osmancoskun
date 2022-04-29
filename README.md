@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on at **Arniva Software.**
 
-- 👨‍💻 All of my projects are available at [https://www.osmancoskun.com](https://www.osmancoskun.com)
+- 👨‍💻 All of my projects are available at [https://osmancoskun.com](https://www.osmancoskun.com)
 
 - 📫 How to reach me **osman.coskun95@gmail.com**
 
