@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 </a> </p>
 
-- 🔭 I’m currently working on at **Arniva Software.**
 
 - 👨‍💻 All of my projects are available at [https://osmancoskun.com](https://www.osmancoskun.com)
 
