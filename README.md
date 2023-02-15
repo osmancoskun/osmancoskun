@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osman Coskun</h1>
-<h3 align="center">A curious jr fullstack developer</h3>
+<h3 align="center">A curious software engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 </a> </p>
