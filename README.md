@@ -9,9 +9,9 @@ Blog, projects, and photos: [osmancoskun.com](https://osmancoskun.com)
 | Project | What it is |
 |---|---|
 | [genesis](https://github.com/osmancoskun/genesis) | Linux agent that routes DNS and connections per domain / IP over a chosen interface (VPN, WARP, NIC) using a local DNS stub and netlink policy routes. Go, systemd, Web UI, Fedora RPM. [Why I built it →](https://osmancoskun.com/blog/why-i-built-genesis) |
+| [ToolSnap](https://toolsnap.dev) | Free browser-based utilities: PDF merge/split/compress, bulk image resize, video and audio conversion, JSON tools, SVG-to-component export for React/Vue/Svelte. Everything runs in the browser — no sign-up, no uploads. |
 | [syz-scraper](https://github.com/osmancoskun/syz-scraper) | Terminal client for syzbot — filter kernel bugs by repro type, browse in a curses UI, batch-download reproducers and crash logs. Python. |
 | [dotfiles](https://github.com/osmancoskun/dotfiles) | Sway, Waybar, Alacritty, Vim. One `setup.sh` + GNU Stow; works on Fedora, Debian/Ubuntu, and Arch. |
-| [pydev](https://github.com/osmancoskun/pydev) | Small dependency-free Python library for reading CPU, GPU, network, and storage device info. |
 | [gtkapp-template](https://github.com/osmancoskun/gtkapp-template) | Starter for Python + GTK3 apps: Meson/Ninja, GSchema, localization, Debian packaging files. |
 
 ## Pardus (work)
