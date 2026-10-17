@@ -22,7 +22,6 @@ Applications I build and maintain at Pardus:
 - [pardus-nvidia-installer](https://github.com/pardus/pardus-nvidia-installer) — detects GPUs, suggests proprietary or nouveau drivers, installs with PolicyKit auth (Python, GTK3)
 - [pardus-gnome-shortcuts](https://github.com/pardus/pardus-gnome-shortcuts) — GNOME keyboard shortcut manager (Python, GTK4, LibAdwaita)
 - [libpardus](https://github.com/pardus/libpardus) — shared library used across Pardus GTK applications
-- [pardus.github.io](https://github.com/pardus/pardus.github.io) — Pardus developer website
 
 ## Open source contributions
 
